@@ -40,5 +40,14 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0020-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaGupta105/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
