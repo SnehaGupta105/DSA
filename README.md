@@ -32,6 +32,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaGupta105/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
@@ -41,13 +42,19 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaGupta105/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
