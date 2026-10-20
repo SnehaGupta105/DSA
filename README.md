@@ -8,11 +8,13 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/SnehaGupta105/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaGupta105/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SnehaGupta105/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/SnehaGupta105/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/SnehaGupta105/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SnehaGupta105/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/SnehaGupta105/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -74,4 +76,9 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SnehaGupta105/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/SnehaGupta105/DSA/tree/master/3886-sum-of-sortable-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/SnehaGupta105/DSA/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
