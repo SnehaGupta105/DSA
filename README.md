@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SnehaGupta105/DSA/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/SnehaGupta105/DSA/tree/master/0035-search-insert-position) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SnehaGupta105/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SnehaGupta105/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -89,6 +90,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SnehaGupta105/DSA/tree/master/0015-3sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SnehaGupta105/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SnehaGupta105/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SnehaGupta105/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -113,5 +115,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SnehaGupta105/DSA/tree/master/0015-3sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SnehaGupta105/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
