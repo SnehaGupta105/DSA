@@ -10,6 +10,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/SnehaGupta105/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SnehaGupta105/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaGupta105/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SnehaGupta105/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/SnehaGupta105/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SnehaGupta105/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SnehaGupta105/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -46,6 +47,7 @@
 | [0022-generate-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SnehaGupta105/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaGupta105/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SnehaGupta105/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/SnehaGupta105/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
 |  |
@@ -87,6 +89,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SnehaGupta105/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SnehaGupta105/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SnehaGupta105/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3886-sum-of-sortable-integers](https://github.com/SnehaGupta105/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
