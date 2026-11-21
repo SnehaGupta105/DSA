@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SnehaGupta105/DSA/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/SnehaGupta105/DSA/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/SnehaGupta105/DSA/tree/master/0054-spiral-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SnehaGupta105/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SnehaGupta105/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SnehaGupta105/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -57,6 +58,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SnehaGupta105/DSA/tree/master/0054-spiral-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaGupta105/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bracket Sequences
 |  |
@@ -109,6 +111,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SnehaGupta105/DSA/tree/master/0054-spiral-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SnehaGupta105/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SnehaGupta105/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Ordered Set
