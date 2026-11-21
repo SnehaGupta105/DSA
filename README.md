@@ -13,6 +13,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/SnehaGupta105/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaGupta105/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SnehaGupta105/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SnehaGupta105/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3693-climbing-stairs-ii](https://github.com/SnehaGupta105/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SnehaGupta105/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SnehaGupta105/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SnehaGupta105/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SnehaGupta105/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0678-valid-parenthesis-string](https://github.com/SnehaGupta105/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0856-score-of-parentheses) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SnehaGupta105/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SnehaGupta105/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/SnehaGupta105/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -117,4 +120,12 @@
 | ------- |
 | [0015-3sum](https://github.com/SnehaGupta105/DSA/tree/master/0015-3sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SnehaGupta105/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SnehaGupta105/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SnehaGupta105/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
