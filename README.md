@@ -75,6 +75,7 @@
 | [0022-generate-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SnehaGupta105/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SnehaGupta105/DSA/tree/master/0856-score-of-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SnehaGupta105/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SnehaGupta105/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SnehaGupta105/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/SnehaGupta105/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
