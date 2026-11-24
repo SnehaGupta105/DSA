@@ -15,6 +15,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SnehaGupta105/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SnehaGupta105/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SnehaGupta105/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SnehaGupta105/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3693-climbing-stairs-ii](https://github.com/SnehaGupta105/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SnehaGupta105/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SnehaGupta105/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SnehaGupta105/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SnehaGupta105/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SnehaGupta105/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SnehaGupta105/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/SnehaGupta105/DSA/tree/master/3886-sum-of-sortable-integers) |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SnehaGupta105/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SnehaGupta105/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +107,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SnehaGupta105/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/SnehaGupta105/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
@@ -132,4 +136,8 @@
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SnehaGupta105/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/SnehaGupta105/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
